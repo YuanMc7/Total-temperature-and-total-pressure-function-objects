@@ -1,0 +1,4 @@
+TotalPressure/TotalPressure.C
+TotalTemperature/TotalTemperature.C
+
+LIB = $(FOAM_USER_LIBBIN)/libymcfieldFunctionObjects
